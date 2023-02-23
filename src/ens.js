@@ -39,18 +39,19 @@ function getLabelhash(label) {
   return labelhash(label)
 }
 
+// old:0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e
 const contracts = {
   1: {
-    registry: '0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e'
+    registry: '0xcdf0caD9452d83ca3BDb03fd4e26275F2E712E43'
   },
   3: {
-    registry: '0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e'
+    registry: '0xcdf0caD9452d83ca3BDb03fd4e26275F2E712E43'
   },
   4: {
-    registry: '0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e'
+    registry: '0xcdf0caD9452d83ca3BDb03fd4e26275F2E712E43'
   },
   5: {
-    registry: '0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e'
+    registry: '0xcdf0caD9452d83ca3BDb03fd4e26275F2E712E43'
   }
 }
 

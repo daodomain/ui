@@ -1,5 +1,5 @@
 {
-  "name": "@ensdomains/ui",
+  "name": "@daodomains/ui",
   "version": "3.4.4",
   "description": "UI components and reusable code",
   "main": "./dist/index.js",
